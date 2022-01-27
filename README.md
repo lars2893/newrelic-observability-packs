@@ -1,5 +1,7 @@
 [![Community Project header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Community_Project.png)](https://opensource.newrelic.com/oss-category/#community-project)
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/b8f7a8ff-daa5-4569-a3df-409dc610d2b0.svg?orgId=194645872424)](https://app.soluble.cloud/repos/details/github.com/lars2893/newrelic-observability-packs?orgId=194645872424)  
+
 
 # New Relic One Observability Packs
 
